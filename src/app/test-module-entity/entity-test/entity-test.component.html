@@ -1,0 +1,5 @@
+<ng-container *ngIf="catFacts$ | async as catFacts">
+  <div style="margin-bottom: 1rem" *ngFor="let catFact of catFacts">
+    <strong>Fakt Nr. {{ catFact.id }}:</strong> {{ catFact.fact }}
+  </div>
+</ng-container>

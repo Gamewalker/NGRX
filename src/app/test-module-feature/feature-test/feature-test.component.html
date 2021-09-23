@@ -1,0 +1,7 @@
+<div *ngIf="catFact$ | async as catFact">
+  {{ catFact.fact }}
+</div>
+
+<div>
+  <button (click)="loadNewFact()">Lade neuen Fakt</button>
+</div>
