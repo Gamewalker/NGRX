@@ -1,3 +1,6 @@
+### Online Version
+https://stackblitz.com/github/Gamewalker/ngrx
+
 ### Chrome Dev Tool
 Hilft einem sehr bei der Entwicklung, kann jeden Call im Store anzeigen und sogar Rückgängig machen
 https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=de
